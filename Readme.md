@@ -1,4 +1,4 @@
-#9Pay SDK (version 1.0.0)
+# 9Pay SDK (version 1.0.0)
 
 9Pay SDK is a set of libraries for apps to interact with 9Pay Platform. 9Pay SDK includes the following main functions:
 
