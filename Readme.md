@@ -89,7 +89,7 @@ Download 9pay sdk at library folder in repo
 ```
 
 - Config at Manifest:
-    1. Add NpayActivity: 
+1. Add NpayActivity: 
 ```xml
      <activity
         android:name=".NPayActivity"
@@ -102,7 +102,7 @@ Download 9pay sdk at library folder in repo
         android:windowSoftInputMode="adjustResize">
     </activity>
 ```
-    2. Add queries: 
+2. Add queries: 
 
 ```xml
      <queries>
@@ -112,7 +112,7 @@ Download 9pay sdk at library folder in repo
     </queries>
 ```
 
-    2. Add application: 
+3. Add application: 
 ```xml
     <application
         android:name=".NPayApplication"
