@@ -106,6 +106,4 @@ App can use this property after SDK initialization to know the link status to 9P
 | MANUAL_BANK | Bank transfer payment |
 | CREDIT | Credit card payments |
 
-## Install for IOS (Comming soon)
-
 
