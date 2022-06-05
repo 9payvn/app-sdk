@@ -1,4 +1,4 @@
-package vn.ewallet.demo_sdk;
+package vn.npay.demo_sdk;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("vn.ewallet.demo_sdk", appContext.getPackageName());
+        assertEquals("vn.npay.demo_sdk", appContext.getPackageName());
     }
 }

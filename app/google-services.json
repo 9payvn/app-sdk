@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1051695176445",
+    "firebase_url": "https://pay-f2481.firebaseio.com",
+    "project_id": "pay-f2481",
+    "storage_bucket": "pay-f2481.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051695176445:android:88d645a8e5dbae70af7c94",
+        "android_client_info": {
+          "package_name": "vn.npay.demo_sdk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051695176445-vb772fqdm8qnpb04j7mpv21r6s6ehr6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.npay.demo_sdk",
+            "certificate_hash": "a2f8b953b9f45c612c19bea11147e661a96bc74f"
+          }
+        },
+        {
+          "client_id": "1051695176445-4bl8c9pplehineujajfpllsot0q8ee5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.npay.demo_sdk",
+            "certificate_hash": "9ac0e8d47afc8950224cea57d9c8939a42e8eb5c"
+          }
+        },
+        {
+          "client_id": "1051695176445-nlmnuaj0vfm47hprp1us8g3ocbano56e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwZa2JBDddF7LQJfb4vE3IYL5N7PlMUQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051695176445-nlmnuaj0vfm47hprp1us8g3ocbano56e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1051695176445-l14t5iboss2qmkco676ftdl7pekg5phq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.9payjsc.vn.beta"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051695176445:android:361db2d414588e8baf7c94",
+        "android_client_info": {
+          "package_name": "vn.npay.demo_sdk.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051695176445-nlmnuaj0vfm47hprp1us8g3ocbano56e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwZa2JBDddF7LQJfb4vE3IYL5N7PlMUQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051695176445-nlmnuaj0vfm47hprp1us8g3ocbano56e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1051695176445-l14t5iboss2qmkco676ftdl7pekg5phq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.9payjsc.vn.beta"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

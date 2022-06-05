@@ -1,5 +1,5 @@
-{
-    "logs": [
-        {
-            "outputFile": "C:\\Users\\tnvin\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\path_provider_android-2.0.14\\android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hu\\values-hu.xml",
-           
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/ic_launcher_background" />
+    <foreground android:drawable="@drawable/ic_launcher_foreground" />
+</adaptive-icon>

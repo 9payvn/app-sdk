@@ -1,4 +1,4 @@
-package vn.ewallet.demo_sdk;
+package vn.npay.demo_sdk;
 
 import org.junit.Test;
 
