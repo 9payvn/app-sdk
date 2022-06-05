@@ -89,7 +89,7 @@ Download 9pay sdk at library folder in repo
 ```
 
 - Config at Manifest:
-    1. Add NpayActivity: 
+1. Add NpayActivity: 
 ```xml
      <activity
         android:name=".NPayActivity"
@@ -102,7 +102,7 @@ Download 9pay sdk at library folder in repo
         android:windowSoftInputMode="adjustResize">
     </activity>
 ```
-    2. Add queries: 
+2. Add queries: 
 
 ```xml
      <queries>
@@ -112,7 +112,7 @@ Download 9pay sdk at library folder in repo
     </queries>
 ```
 
-    2. Add application: 
+3. Add application: 
 ```xml
     <application
         android:name=".NPayApplication"
@@ -148,7 +148,7 @@ Before using the 9PaySDK, you need to import the 9PaySDK Component and pass the 
 ### Functions of 9Pay SDK
 When call some functions, 9pay will check login status of user:
 
-- Use login for the first time or accessToken expires, 9Pay sdk will direct to login screen.
+- User login for the first time or accessToken expires, 9Pay sdk will direct to login screen.
   
 After login successfully, then call other functions of the SDK
 #### Open wallet
