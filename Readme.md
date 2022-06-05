@@ -148,7 +148,7 @@ Before using the 9PaySDK, you need to import the 9PaySDK Component and pass the 
 ### Functions of 9Pay SDK
 When call some functions, 9pay will check login status of user:
 
-- Use login for the first time or accessToken expires, 9Pay sdk will direct to login screen.
+- User login for the first time or accessToken expires, 9Pay sdk will direct to login screen.
   
 After login successfully, then call other functions of the SDK
 #### Open wallet
